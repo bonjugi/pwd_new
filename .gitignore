@@ -23,3 +23,5 @@
 /dist/
 /nbdist/
 /.nb-gradle/
+src/main/resources/static/test.html
+src/main/resources/static/test2.html
